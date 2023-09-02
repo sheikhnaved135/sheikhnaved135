@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sheikhnaved135&label=Profile%20views&color=0e75b6&style=flat" alt="sheikhnaved135" /> </p>
 
-- 🔭 I’m currently working on **E-commerce React website**
+- 🔭 I’m currently working on **E-commerce MERN website**
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **Reactjs, Expressjs, Mongodb, Nodejs**
 
-- 💬 Ask me about **react, dsa, html, css, js**
+- 💬 Ask me about **react, DSA, html, css, js**
 
 - 📫 How to reach me **sheikhnaved022@gmail.com**
 
