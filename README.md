@@ -11,13 +11,12 @@
 
 - 📫 How to reach me **sheikhnaved022@gmail.com**
 
-- 📄 Know about my experiences [https://coral-lorrayne-41.tiiny.site/](https://coral-lorrayne-41.tiiny.site/)
+- 📄My Resume [sheikhnaved Resume/](https://coral-lorrayne-41.tiiny.site/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/sheikhnaved17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sheikhnaved17" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sheikhnaved022" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sheikhnaved022" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/sheikhnaved022/practice" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sheikhnaved022/practice" height="30" width="40" /></a>
+<a href="linkedin.com/in/sheikh-naved02-686b55200/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sheikhnaved17" height="30" width="40" />LinkedIn</a>
+<a href="https://twitter.com/sheikhnaved17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sheikhnaved17" height="30" width="40" />Twitter</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
