@@ -15,8 +15,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="linkedin.com/in/sheikh-naved02-686b55200/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sheikhnaved17" height="30" width="40" />LinkedIn</a>
-<a href="https://twitter.com/sheikhnaved17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sheikhnaved17" height="30" width="40" />Twitter</a>
+<a href="linkedin.com/in/sheikh-naved02-686b55200/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sheikhnaved17" height="30" width="40" />LinkedIn</a>
+<a href="https://twitter.com/sheikhnaved17" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sheikhnaved17" height="30" width="40" />Twitter</a>
   <a href="https://one1store.netlify.app/" target="blank"><img align="center" src="https://cdn-icons-png.freepik.com/256/5956/5956592.png" alt="sheikhnaved17" height="30" width="40" />LinkedIn</a>
 </p>
 
