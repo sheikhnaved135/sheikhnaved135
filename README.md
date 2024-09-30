@@ -11,7 +11,8 @@
 
 - 📫 How to reach me **sheikhnaved022@gmail.com**
 
-- 📄My Resume [sheikhnaved Resume/]([https://drive.google.com/file/d/1HQ3CSH-qoZwqN2yKt2cyJgRtIjCrtyrm/view?usp=sharing])
+- 📄My Resume [My Resume](https://drive.google.com/file/d/1HQ3CSH-qoZwqN2yKt2cyJgRtIjCrtyrm/view?usp=sharing)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
