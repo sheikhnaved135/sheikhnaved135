@@ -8,7 +8,7 @@
 🌟 I love working on projects that enhance user experiences and solve real-world challenges.  
 📈 Currently, I'm focused on a meeting scheduling website and exploring new technologies.  
 🌍 Based in Jabalpur.  
-📫 Feel free to reach out: [GMAIL](mailto:sheikhnaved1502@gmail.com) or[Twitter](https://x.com/sheikhnaved17)
+📫 Feel free to reach out: [GMAIL](mailto:sheikhnaved1502@gmail.com) or [Twitter](https://x.com/sheikhnaved17)
 <br> 
 
 
