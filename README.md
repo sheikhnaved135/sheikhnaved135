@@ -2,7 +2,14 @@
 [![MasterHead](https://gifimage.net/wp-content/uploads/2018/11/rage-gif-meme-2.gif)](https://poorvadityabehre.io)
 
 # 💫 About Me:
-🔭 I’m currently working as Full stack developer.<br>👯 I’m looking to collaborate on Full stack projects.<br>🌱 I’m currently learning and exploring more on React native, flutter.<br>💬 Ask me about : Web Development, Computer Networks ,Operating Systems etc.<br> 
+👋 Hi, I'm Sheikh Naved!  
+🎓 I recently graduated in Computer Science.  
+💻 I'm passionate about developing full-stack web applications and mobile applications using React, Node.js, MongoDB, Expressjs, React Native, Flutter.  
+🌟 I love working on projects that enhance user experiences and solve real-world challenges.  
+📈 Currently, I'm focused on a meeting scheduling website and exploring new technologies.  
+🌍 Based in Jabalpur.  
+📫 Feel free to reach out: [GMAIL](mailto:sheikhnaved1502@gmail.com) or [Twitter]([your-twitter-link](https://x.com/sheikhnaved17)).
+<br> 
 
 
 ## 🌐 Socials:
